@@ -18,9 +18,9 @@ module.exports = {
                         type: 'boolean',
                         description: "check if task is completed",
                         example: true
-                    }
-                }
-            }
-        }
+                    },
+                },
+            },
+        },
     }
 }
